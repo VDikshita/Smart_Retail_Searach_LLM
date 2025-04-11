@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+symspellpy
+sentence-transformers
+groq
+requests
+tqdm
+scikit-learn

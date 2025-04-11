@@ -1,0 +1,123 @@
+[
+    {
+      "product_id": 1,
+      "product_name": "Nike Air Sneakers",
+      "product_category": "Footwear",
+      "product_price": 1999,
+      "tags": ["sneakers", "kicks", "nike", "sports shoes"],
+      "image_link": "https://images.unsplash.com/photo-1606813902594-1100a5d27b84"
+    },
+    {
+      "product_id": 2,
+      "product_name": "Adidas Running Shoes",
+      "product_category": "Footwear",
+      "product_price": 2499,
+      "tags": ["running shoes", "sports", "adidas", "sneakers"],
+      "image_link": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    },
+    {
+      "product_id": 3,
+      "product_name": "Puma Trainers",
+      "product_category": "Footwear",
+      "product_price": 1799,
+      "tags": ["trainers", "puma", "shoes", "kicks"],
+      "image_link": "https://images.unsplash.com/photo-1552346154-9d48e9ae7f48"
+    },
+    {
+      "product_id": 4,
+      "product_name": "Leather Formal Loafers",
+      "product_category": "Footwear",
+      "product_price": 2299,
+      "tags": ["loafers", "formal shoes", "leather", "office wear"],
+      "image_link": "https://images.unsplash.com/photo-1600180758890-9270d97db76f"
+    },
+    {
+      "product_id": 5,
+      "product_name": "Women’s Red Sandals",
+      "product_category": "Footwear",
+      "product_price": 1399,
+      "tags": ["sandals", "chappal", "flip-flops", "heels"],
+      "image_link": "https://images.unsplash.com/photo-1585238342028-3ba824df11d6"
+    },
+    {
+      "product_id": 6,
+      "product_name": "Kids Crocs Shoes",
+      "product_category": "Footwear",
+      "product_price": 999,
+      "tags": ["crocs", "kids shoes", "casual", "rubber shoes"],
+      "image_link": "https://images.unsplash.com/photo-1603398662105-adef31f697bc"
+    },
+    {
+      "product_id": 7,
+      "product_name": "Bata Black Formal Shoes",
+      "product_category": "Footwear",
+      "product_price": 1899,
+      "tags": ["formal", "office", "bata", "leather"],
+      "image_link": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de"
+    },
+    {
+      "product_id": 8,
+      "product_name": "Skechers Casual Slip-ons",
+      "product_category": "Footwear",
+      "product_price": 2199,
+      "tags": ["casual", "slip-ons", "skechers", "comfort"],
+      "image_link": "https://images.unsplash.com/photo-1600180758890-9270d97db76f"
+    },
+    {
+      "product_id": 9,
+      "product_name": "H&M Ankle Boots",
+      "product_category": "Footwear",
+      "product_price": 2899,
+      "tags": ["boots", "h&m", "ankle", "fashion"],
+      "image_link": "https://images.unsplash.com/photo-1582738412388-cc6c2c937d31"
+    },
+    {
+      "product_id": 10,
+      "product_name": "Reebok Sports Sneakers",
+      "product_category": "Footwear",
+      "product_price": 1999,
+      "tags": ["reebok", "sports", "gym", "sneakers"],
+      "image_link": "https://images.unsplash.com/photo-1603398938378-8b4570c1d582"
+    },
+    {
+      "product_id": 11,
+      "product_name": "Woodland Trekking Boots",
+      "product_category": "Footwear",
+      "product_price": 3499,
+      "tags": ["woodland", "trekking", "boots", "leather"],
+      "image_link": "https://images.unsplash.com/photo-1606046604972-77bd9da6d59e"
+    },
+    {
+      "product_id": 12,
+      "product_name": "Campus Walking Shoes",
+      "product_category": "Footwear",
+      "product_price": 1299,
+      "tags": ["walking shoes", "campus", "lightweight", "casual"],
+      "image_link": "https://images.unsplash.com/photo-1612817159949-207ed69ed94d"
+    },
+    {
+      "product_id": 13,
+      "product_name": "Birkenstock Flat Slippers",
+      "product_category": "Footwear",
+      "product_price": 2199,
+      "tags": ["birkenstock", "slippers", "casual", "germany"],
+      "image_link": "https://images.unsplash.com/photo-1628474129891-e9893dcf7c5c"
+    },
+    {
+      "product_id": 14,
+      "product_name": "Fila Men’s Flip-Flops",
+      "product_category": "Footwear",
+      "product_price": 999,
+      "tags": ["fila", "flip-flops", "men", "rubber"],
+      "image_link": "https://images.unsplash.com/photo-1612817516065-e7935ea0e1ae"
+    },
+    {
+      "product_id": 15,
+      "product_name": "Metro White Heels",
+      "product_category": "Footwear",
+      "product_price": 2599,
+      "tags": ["heels", "metro", "formal", "white"],
+      "image_link": "https://images.unsplash.com/photo-1600180758854-e0c1a9019516"
+    }
+  ]
+  
