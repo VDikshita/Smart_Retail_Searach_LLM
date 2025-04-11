@@ -7,10 +7,10 @@ if "SSL_CERT_FILE" in os.environ:
 
 from groq import Groq  # pip install groq
 
-# ✅ Directly pass your Groq API key here (for local testing only)
+#  Directly pass your Groq API key here (for local testing only)
 groq_client = Groq(api_key="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")
 
-# ✅ Retail-specific tag list — restrict LLM output to these
+#  Retail-specific tag list — restrict LLM output to these
 RETAIL_TAGS = [
     "sneakers", "shoes", "sandals", "loafers", "heels", "boots", "flip-flops",
     "walking shoes", "formal shoes", "slippers", "trainers", "crocs", "slip-ons",
@@ -39,7 +39,7 @@ Respond as a Python list of strings with no explanation. Example: ["sneakers", "
         )
         text_output = response.choices[0].message.content.strip()
 
-        # 🧪 Parse LLM output safely
+        #  Parse LLM output safely
         if text_output.startswith("["):
             synonyms = eval(text_output)
             return [s.lower() for s in synonyms if isinstance(s, str)]
